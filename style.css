@@ -1,4 +1,14 @@
 body {
-background-color: #6F5EDB;
-color: black;
+    background-color: #6F5EDB;
+    color: white;
+}
+    .cabeçalho-imagem{
+
+    width: 20%;
+
+}
+    .cabeçalho {
+    background-color: #6F5EDB;
+    color: white;
+    display: flex;
 }
